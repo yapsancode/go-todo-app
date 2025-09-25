@@ -19,3 +19,10 @@ This project is part of my backend learning journey.
 ## Running the App
 ```bash
 go run cmd/main.go
+```
+
+## Roadmap
+- CRUD todos with in-memory storage
+- Connect PostgreSQL + GORM
+- Add JWT auth
+- Deploy with Docker + Render
